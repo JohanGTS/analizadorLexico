@@ -1,0 +1,9 @@
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/analizador.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/install.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/analizador_autogen_timestamp_deps.dir
+/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug/CMakeFiles/analizador_autogen.dir

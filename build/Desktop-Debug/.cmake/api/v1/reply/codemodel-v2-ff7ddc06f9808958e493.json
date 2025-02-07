@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-176c514f628780a7a8eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "analizador",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "analizador::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-analizador-Debug-5771cb913907fa324e03.json",
+					"name" : "analizador",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "analizador_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-analizador_autogen-Debug-02a98797efda5ce5f95d.json",
+					"name" : "analizador_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "analizador_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-analizador_autogen_timestamp_deps-Debug-a88a3b4a89283d2e22c2.json",
+					"name" : "analizador_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/johan/Desktop/CompiladoresFuentes/analizador/build/Desktop-Debug",
+		"source" : "/home/johan/Desktop/CompiladoresFuentes/analizador"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
