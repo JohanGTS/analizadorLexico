@@ -31,6 +31,12 @@ void MainWindow::on_btnValidar_clicked(bool checked)
 {
     QString texto = ui->entrada->text();
     const char *cadena = texto.toUtf8().constData();
+
+    if (strlen(cadena) == 0)
+    {
+        return; //el lexer no queria coger ninguna regla para evitar espacios en blanco
+    }
+
     if (esBinario(cadena)) {
         ui->salida->setText("Resultado: Es un número binario válido.");
     } else {
